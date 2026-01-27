@@ -14,7 +14,7 @@ print(f"""{Fore.CYAN}
 ╔══════════════════════════════════════════════════╗
 ║    TELEGRAM API AUTO-CREATOR - POWER MODE        ║
 ║    100% PowerShell - No Browser                  ║
-║    Telegram: @esfelurm                           ║
+║    Telegram: @ogdigital                           ║
 ╚══════════════════════════════════════════════════╝\n
 """)
 
@@ -561,4 +561,5 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"\n{Fore.RED}[!] Error: {e}")
     
+
     input(f"\n{Fore.CYAN}Press Enter to exit...")
